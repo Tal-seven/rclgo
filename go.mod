@@ -1,4 +1,4 @@
-module github.com/tiiuae/rclgo
+module github.com/Tal-seven/rclgo
 
 go 1.20
 
