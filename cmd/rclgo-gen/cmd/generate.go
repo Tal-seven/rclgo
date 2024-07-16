@@ -24,7 +24,7 @@ import (
 	"golang.org/x/tools/go/packages"
 )
 
-const correctDistro = "humble"
+const correctDistro = "foxy"
 
 func validateGenerateArgs(cmd *cobra.Command, _ []string) error {
 	rootPaths := getRootPaths(cmd)
